@@ -1,3 +1,5 @@
+资料: https://iron-stem-52b.notion.site/RAG-AI-17419df54b37801085a2f57fd336ee91?pvs=74
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
